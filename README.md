@@ -24,8 +24,8 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [IoT_Capstone (Resty)](https://github.com/Jix0xo/IoT_Capstone) | 코골이·뒤척임 감지 스마트베개 | Python, Java, AWS IoT, Android |
-| [IoT_NetworkSystem](https://github.com/Jix0xo/IoT_NetworkSystem_Final_Project) | LoRa 기반 교실 환경 자동 제어 시스템 | C++, Arduino, LoRa |
+| [IoT_Capstone (Resty)](https://github.com/Jix0xo/IoT_Capstone) | 코골이·뒤척임 감지 스마트베개 | Java, AWS IoT, Android |
+| [IoT_NetworkSystem](https://github.com/Jix0xo/IoT_NetworkSystem_Final_Project) | LoRa 기반 교실 환경 자동 제어 시스템 | C/C++, Arduino, LoRa |
 
 ---
 
